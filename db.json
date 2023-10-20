@@ -1,0 +1,21 @@
+{
+    "products": [
+
+        {
+            "id": "1",
+            "name": "Brocoli",
+            "img": "https://res.cloudinary.com/duybxe2k2/image/upload/v1696182544/Proyecto%205%20UDD%20Verduleria%20e-commerce/brocoli_ku2nqi.jpg",
+            "description": "Rico y fresquito",
+            "amount":"valor por unidad",
+            "price":"$1200"
+        },
+        {
+            "id": "2",
+            "name": "Brocoli",
+            "img": "https://res.cloudinary.com/duybxe2k2/image/upload/v1696182544/Proyecto%205%20UDD%20Verduleria%20e-commerce/brocoli_ku2nqi.jpg",
+            "description": "Rico y fresquito",
+            "amount":"valor por unidad",
+            "price":"$1200"
+        }
+    ]
+}
